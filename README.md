@@ -1,5 +1,5 @@
 # Extracción del Conocimiento de Base de Datos
-> **Proyecto Final / Práctica de Laboratorio**
+> **Prácticas de Laboratorio**
 
 ---
 
